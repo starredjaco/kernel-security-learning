@@ -70,6 +70,11 @@ Keep updating...
 31. 2024-CCS：[On Kernel's Safety in the Spectre Era (And KASLR is Formally Dead)](https://dl.acm.org/doi/pdf/10.1145/3658644.3670332)
 32. 2025-NDSS：[KernelSnitch: Side-Channel Attacks on Kernel Data Structures](https://lukasmaar.github.io/papers/ndss25-kernelsnitch.pdf) —— 【[tool-KernelSnitch](https://github.com/isec-tugraz/KernelSnitch)】 【[slides](https://lukasmaar.github.io/slides/ndss25-kernelsnitch.pdf)】
 33. 2025-USENIX：[When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks](https://lukasmaar.github.io/papers/usenix25-tlbsidechannel.pdf) —— 【[tool-TLBSideChannel](https://github.com/isec-tugraz/TLBSideChannel)】
+34. 2025-USENIX：[System Register Hijacking: Compromising Kernel Integrity By Turning System Registers Against the System](https://www.usenix.org/conference/usenixsecurity25/presentation/miller)
+35. 2025-USENIX：[The Cost of Performance: Breaking ThreadX with Kernel Object Masquerading Attacks](https://www.usenix.org/conference/usenixsecurity25/presentation/shao)
+36. 2025-S&P：[BridgeRouter: Automated Capability Upgrading of Out-Of-Bounds Write Vulnerabilities to Arbitrary Memory Write Primitives in the Linux Kernel](http://youwei.site/papers/SP2025b.pdf)
+37. 2025-CCS：Reviving Discarded Vulnerabilities: Exploiting Previously Unexploitable Linux Kernel Bugs Through Control Metadata Fields
+38. 2025-CCS：CROSS-X: Generalized and Stable Cross-Cache Attack on the Linux Kernel
 
 
 #### （2）kernel vulerability detection
@@ -146,6 +151,9 @@ Keep updating...
 70. 2024-CCS：[Toss a Fault to BpfChecker: Revealing Implementation Flaws for eBPF runtimes with Differential Fuzzing](https://www.yajin.org/papers/CCS2024_BpfChecker.pdf) —— 【[tool-BpfCheckerSource](https://github.com/bpfchecker/BpfCheckerSource)】
 71. 2025-NDSS：[Statically Discover Cross-Entry Use-After-Free Vulnerabilities in the Linux Kernel](https://www.ndss-symposium.org/ndss-paper/statically-discover-cross-entry-use-after-free-vulnerabilities-in-the-linux-kernel/)
 72. 2025-NDSS：[A Comprehensive Memory Safety Analysis of Bootloaders](https://www.ndss-symposium.org/ndss-paper/a-comprehensive-memory-safety-analysis-of-bootloaders/)
+73. 2025-USENIX：[Finding Metadata Inconsistencies in Distributed File Systems via Cross-Node Operation Modeling](https://www.usenix.org/conference/usenixsecurity25/presentation/ma-fuchen)
+74. 2025-CCS：[SyzSpec: Specification Generation for Linux Kernel Fuzzing via Under-Constrained Symbolic Execution](https://www.cs.ucr.edu/%7Ezhiyunq/pub/ccs25_syzspec.pdf)
+75. 2025-CCS：[SyzParam: Incorporating Runtime Parameters into Kernel Driver Fuzzing](https://arxiv.org/html/2501.10002v1) 
 
 #### （3）kernel defense
 
@@ -200,6 +208,12 @@ Keep updating...
 49. 2024-CCS：[The Illusion of Randomness: An Empirical Analysis of Address Space Layout Randomization Implementations](https://arxiv.org/pdf/2408.15107)
 50. 2024-CCS：[PeTAL: Ensuring Access Control Integrity against Data-only Attacks on Linux](https://www.cs.ucr.edu/~csong/ccs24-petal.pdf) —— 【[tool-petal](https://github.com/compsec-snu/petal)】
 51. 2024-CCS：[Beyond the edges of kernel control-flow hijacking protection with hek-cfi](https://dl.acm.org/doi/pdf/10.1145/3634737.3661135) —— 【[slides](https://lukasmaar.github.io/slides/asiaccs24-hekcfi.pdf)】
+52. 2025-USENIX：[Approximation Enforced Execution of Untrusted Linux Kernel Extensions](https://www.usenix.org/conference/usenixsecurity25/presentation/sun-hao)
+53. 2025-USENIX：[EKC: A Portable and Extensible Kernel Compartment for De-Privileging Commodity OS](https://www.usenix.org/conference/usenixsecurity25/presentation/yan-jiaqin)
+54. 2025-NDSS：[BULKHEAD: Secure, Scalable, and Efficient Kernel Compartmentalization with PKS](https://www.ndss-symposium.org/ndss-paper/bulkhead-secure-scalable-and-efficient-kernel-compartmentalization-with-pks/)
+55. 2025-NDSS：[VulShield: Protecting Vulnerable Code Before Deploying Patches](VulShield: Protecting Vulnerable Code Before Deploying Patches)
+56. 2025-S&P：[IUBIK: Isolating User Bytes in Commodity Operating System Kernels via Memory Tagging Extensions](https://cs.brown.edu/people/vpk/papers/iubik.sp25.pdf)
+57. 2025-CCS：Tide: An Efficient Kernel-level Isolation Execution Environment on AArch64 via Dynamically Adjusting Output Address Size
 
 other resources：
 
@@ -214,6 +228,7 @@ other resources：
 #### （4） Android
 
 1. 2020-USEINX：[Automatic Hot Patch Generation for Android Kernels](https://www.usenix.org/conference/usenixsecurity20/presentation/xu)—自动给安卓打补丁 【[note](https://securitygossip.com/blog/2020/03/31/automatic-hot-patch-generation-for-android-kernels/)】
+2. 2025-USENIX：[The Doom of Device Drivers: Your Android Device (Most Likely) has N-Day Kernel Vulnerabilities](https://www.usenix.org/conference/usenixsecurity25/presentation/maar-doom)
 
 
 
