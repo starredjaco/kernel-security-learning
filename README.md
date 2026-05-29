@@ -275,6 +275,7 @@ other resources：
 37. [【kernel exploit】CVE-2023-2598 io_uring物理内存越界读写（伪造sock对象）](https://bsauce.github.io/2024/07/30/CVE-2023-2598/)
 38. [【kernel exploit】CVE-2024-1086 nftables UAF漏洞-Dirty Pagedirectory利用方法](https://bsauce.github.io/2024/05/10/CVE-2024-1086/)
 39. [【kernel exploit】CVE-2025-21702-net-sched-UAF漏洞分析](https://bsauce.github.io/2026/01/27/CVE-2025-21702/)
+40. [【kernel exploit】CVE-2026-23271 perf_event竞态UAF漏洞-ROP提权](https://bsauce.github.io/2026/05/29/CVE-2026-23271/)
 
 ---
 
