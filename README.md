@@ -226,7 +226,7 @@ Keep updating...
 55. 2025-NDSS：[VulShield: Protecting Vulnerable Code Before Deploying Patches](VulShield: Protecting Vulnerable Code Before Deploying Patches)
 56. 2025-S&P：[IUBIK: Isolating User Bytes in Commodity Operating System Kernels via Memory Tagging Extensions](https://cs.brown.edu/people/vpk/papers/iubik.sp25.pdf)
 57. 2025-CCS：[Tide: An Efficient Kernel-level Isolation Execution Environment on AArch64 via Dynamically Adjusting Output Address Size](https://zhexwang.github.io/papers/tide.pdf)
-58. 2026-S&P: [https://leeyoochan.github.io/assets/pdf/Heap_Localization_SP_2026.pdf](https://arxiv.org/pdf/2510.22396)
+58. 2026-S&P: [PORTGPT: Towards Automated Backporting Using Large Language Models](https://arxiv.org/pdf/2510.22396)
 59. 2026-USENIX: [kSFS: Repurposing a Microkernel-like Interface for Fast and Secure In-Kernel Linux File Systems](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_peng-dinglan.pdf)
 60. 2026-USENIX: [DMGuard: Safeguarding Kernels from Physical-Page Use-After-Free Vulnerabilities](https://www.usenix.org/conference/usenixsecurity26/presentation/kim-juhee-dmguard)
 
