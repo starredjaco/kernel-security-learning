@@ -73,9 +73,17 @@ Keep updating...
 34. 2025-USENIX：[System Register Hijacking: Compromising Kernel Integrity By Turning System Registers Against the System](https://www.usenix.org/conference/usenixsecurity25/presentation/miller)
 35. 2025-USENIX：[The Cost of Performance: Breaking ThreadX with Kernel Object Masquerading Attacks](https://www.usenix.org/conference/usenixsecurity25/presentation/shao)
 36. 2025-S&P：[BridgeRouter: Automated Capability Upgrading of Out-Of-Bounds Write Vulnerabilities to Arbitrary Memory Write Primitives in the Linux Kernel](http://youwei.site/papers/SP2025b.pdf)
-37. 2025-CCS：Reviving Discarded Vulnerabilities: Exploiting Previously Unexploitable Linux Kernel Bugs Through Control Metadata Fields
-38. 2025-CCS：CROSS-X: Generalized and Stable Cross-Cache Attack on the Linux Kernel
+37. 2025-CCS: [Reviving Discarded Vulnerabilities: Exploiting Previously Unexploitable Linux Kernel Bugs Through Control Metadata Fields](https://lujie.ac.cn/files/papers/MetaXploit.pdf)
+38. 2025-CCS：[CROSS-X: Generalized and Stable Cross-Cache Attack on the Linux Kernel](https://insuyun.github.io/pubs/2025/kim:crossx.pdf)
+39. 2026-NDSS: [DirtyFree: Simplified Data-Oriented Programming in the Linux Kernel](https://www.ndss-symposium.org/ndss-paper/dirtyfree-simplified-data-oriented-programming-in-the-linux-kernel/)
+40. 2026-NDSS: [Cross-Cache Attacks for the Linux Kernel via PCP Massaging](https://www.ndss-symposium.org/ndss-paper/cross-cache-attacks-for-the-linux-kernel-via-pcp-massaging/)
+41. 2026-NDSS: [SoK: Take a Deep Step into Linux Kernel Hardening Effectiveness from the Offensive-Defensive Perspective](https://www.ndss-symposium.org/ndss-paper/sok-take-a-deep-step-into-linux-kernel-hardening-effectiveness-from-the-offensive-defensive-perspective/)
+42. 2026-S&P: [Heap Localization: Cache Side-Channel based Linux Kernel Heap Exploit Techniques](https://leeyoochan.github.io/assets/pdf/Heap_Localization_SP_2026.pdf)
 
+#### Rootcase Analyze
+
+1. 2026-USENIX: [KernelRCA: Facilitating Root Cause Analysis of Memory Corruptions in Linux Kernel with Contextual Causality Chain](https://www.usenix.org/conference/usenixsecurity26/presentation/gu-kangzheng)
+2. 2026-USENIX: [OS-Sanitizer: System-wide Latent Defect Inference in Linux Applications](https://www.usenix.org/conference/usenixsecurity26/presentation/crump)
 
 #### （2）kernel vulerability detection
 
@@ -153,7 +161,11 @@ Keep updating...
 72. 2025-NDSS：[A Comprehensive Memory Safety Analysis of Bootloaders](https://www.ndss-symposium.org/ndss-paper/a-comprehensive-memory-safety-analysis-of-bootloaders/)
 73. 2025-USENIX：[Finding Metadata Inconsistencies in Distributed File Systems via Cross-Node Operation Modeling](https://www.usenix.org/conference/usenixsecurity25/presentation/ma-fuchen)
 74. 2025-CCS：[SyzSpec: Specification Generation for Linux Kernel Fuzzing via Under-Constrained Symbolic Execution](https://www.cs.ucr.edu/%7Ezhiyunq/pub/ccs25_syzspec.pdf)
-75. 2025-CCS：[SyzParam: Incorporating Runtime Parameters into Kernel Driver Fuzzing](https://arxiv.org/html/2501.10002v1) 
+75. 2025-CCS：[SyzParam: Incorporating Runtime Parameters into Kernel Driver Fuzzing](https://arxiv.org/html/2501.10002v1)
+76. 2026-NDSS: [Accurate Identification of the Vulnerability-Introducing Commit based on Differential Analysis of Patching Patterns](https://www.ndss-symposium.org/ndss-paper/accurate-identification-of-the-vulnerability-introducing-commit-based-on-differential-analysis-of-patching-patterns/)
+77. 2026-S&P: [StepStone: LLM-Based GPU Kernel Driver Fuzzing via User-Space Libraries](https://www.cs.ucr.edu/~zhiyunq/pub/oakland26_gpu_fuzzing.pdf)
+78. 2026-S&P: [NetPanic: The Attack Surface You Can't Syscall](https://zhendong2050.github.io/res/SP26.pdf)
+79. 2026-USENIX: [Static Detection of TOCTOU Bugs Caused by Kernel Races](https://www.usenix.org/conference/usenixsecurity26/presentation/han)
 
 #### （3）kernel defense
 
@@ -213,7 +225,10 @@ Keep updating...
 54. 2025-NDSS：[BULKHEAD: Secure, Scalable, and Efficient Kernel Compartmentalization with PKS](https://www.ndss-symposium.org/ndss-paper/bulkhead-secure-scalable-and-efficient-kernel-compartmentalization-with-pks/)
 55. 2025-NDSS：[VulShield: Protecting Vulnerable Code Before Deploying Patches](VulShield: Protecting Vulnerable Code Before Deploying Patches)
 56. 2025-S&P：[IUBIK: Isolating User Bytes in Commodity Operating System Kernels via Memory Tagging Extensions](https://cs.brown.edu/people/vpk/papers/iubik.sp25.pdf)
-57. 2025-CCS：Tide: An Efficient Kernel-level Isolation Execution Environment on AArch64 via Dynamically Adjusting Output Address Size
+57. 2025-CCS：[Tide: An Efficient Kernel-level Isolation Execution Environment on AArch64 via Dynamically Adjusting Output Address Size](https://zhexwang.github.io/papers/tide.pdf)
+58. 2026-S&P: [https://leeyoochan.github.io/assets/pdf/Heap_Localization_SP_2026.pdf](https://arxiv.org/pdf/2510.22396)
+59. 2026-USENIX: [kSFS: Repurposing a Microkernel-like Interface for Fast and Secure In-Kernel Linux File Systems](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_peng-dinglan.pdf)
+60. 2026-USENIX: [DMGuard: Safeguarding Kernels from Physical-Page Use-After-Free Vulnerabilities](https://www.usenix.org/conference/usenixsecurity26/presentation/kim-juhee-dmguard)
 
 other resources：
 
