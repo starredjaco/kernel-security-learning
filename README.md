@@ -79,6 +79,7 @@ Keep updating...
 40. 2026-NDSS: [Cross-Cache Attacks for the Linux Kernel via PCP Massaging](https://www.ndss-symposium.org/ndss-paper/cross-cache-attacks-for-the-linux-kernel-via-pcp-massaging/)
 41. 2026-NDSS: [SoK: Take a Deep Step into Linux Kernel Hardening Effectiveness from the Offensive-Defensive Perspective](https://www.ndss-symposium.org/ndss-paper/sok-take-a-deep-step-into-linux-kernel-hardening-effectiveness-from-the-offensive-defensive-perspective/)
 42. 2026-S&P: [Heap Localization: Cache Side-Channel based Linux Kernel Heap Exploit Techniques](https://leeyoochan.github.io/assets/pdf/Heap_Localization_SP_2026.pdf)
+43. 2026-CCS: [PrivEscalate-Measuring and Augmenting the Threat of LLM-Automated Linux Privilege Escalation](https://arxiv.org/pdf/2609.09087)
 
 #### Rootcase Analyze
 
